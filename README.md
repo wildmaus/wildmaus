@@ -1,4 +1,4 @@
-### Hi there 👋
+<h3 align="center">Hi there, I'm Eugene Ovcharov 👋</h3>
 
 <!--
 **wildmaus/wildmaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-My name is **Eugene Ovcharov**
-
 <br />
 
 🛠 Working as a solidity developer at [Rock'n'Block](https://rocknblock.io/).
