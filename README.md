@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ---
 <details>
-    <summary><h3>📊  My GitHub Stats:</h3></summary>
+    <summary><h4>📊  My GitHub Stats:</h4></summary>
     <br />
     <p>
         <img src=https://github-readme-stats.vercel.app/api?username=wildmaus&show_icons=true&theme=tokyonight alt="GitHub Stats chart">
