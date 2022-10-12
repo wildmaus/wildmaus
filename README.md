@@ -1,4 +1,4 @@
-<h3 align="center">Hi there, I'm Eugene Ovcharov <img src="https://github.com/tonybaloney/vscode-pets/blob/master/media/cat/brown_swipe_8fps.gif" width="40" height="40" /></h3>
+<h3 align="center">Hi there, I'm Eugene Ovcharov👋</h3>
 
 <!--
 **wildmaus/wildmaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
