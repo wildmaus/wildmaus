@@ -33,7 +33,7 @@ My name is **Eugene Ovcharov**
 
 ---
 <details>
-    <summary>### 📊  My GitHub Stats:</summary>
+    <summary><h3>📊  My GitHub Stats:</h3></summary>
     <br />
     <p>
         <img src=https://github-readme-stats.vercel.app/api?username=wildmaus&show_icons=true&theme=tokyonight alt="GitHub Stats chart">
