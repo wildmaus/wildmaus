@@ -32,12 +32,13 @@ My name is **Eugene Ovcharov**
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
 
 ---
-### 📊  My GitHub Stats:
-
-<br />
-<p>
-    <img src=https://github-readme-stats.vercel.app/api?username=wildmaus&show_icons=true&theme=tokyonight alt="GitHub Stats chart">
-</p>
-<p>
-    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=wildmaus&layout=compact&theme=tokyonight alt="Most Used Languages chart">
-</p>
+<details>
+    <summary>### 📊  My GitHub Stats:</summary>
+    <br />
+    <p>
+        <img src=https://github-readme-stats.vercel.app/api?username=wildmaus&show_icons=true&theme=tokyonight alt="GitHub Stats chart">
+    </p>
+    <p>
+        <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=wildmaus&layout=compact&theme=tokyonight alt="Most Used Languages chart">
+    </p>
+</details>
